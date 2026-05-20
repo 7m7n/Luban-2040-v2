@@ -1,0 +1,12 @@
+requests
+pyfiglet
+termcolor
+cloudscraper
+dnspython
+beautifulsoup4
+ldap3
+pysmb
+impacket
+shodan
+colorama
+scrapling[fetchers]
