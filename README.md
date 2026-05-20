@@ -6,6 +6,7 @@
 
 ---
 
+
 ## ⚠️ Legal Warning
 
 ```
@@ -21,10 +22,11 @@ The author is NOT responsible for any misuse or damage caused by this tool.
 Always obtain written authorization before testing any target.
 ```
 
+## The ScreenShot at the end of README.md file
+
 ---
 
-## 📁 Project Structure (map of Luban 2040 v2 )
-
+## 📁 Project Structure (map of Luban 2040 v2 ) 
 ```
 luban2040/
 ├── luban2040.py          # Main entry point
@@ -388,7 +390,14 @@ python3 luban2040.py -host example.com --subs --takeover -v
 | Slow scan | Too many threads | Reduce with `-t 5` |
 | Empty JSON output | Target unreachable | Confirm target is live and in scope |
 
-
+## ScreenShots Luban 2040 v2 : 
+![image alt](https://github.com/7m7n/Luban-2040-v2/blob/e6dafcce7240035cf473de05f8f54b2b005384fc/Screenshot%201.PNG)
+![image alt](https://github.com/7m7n/Luban-2040-v2/blob/e6dafcce7240035cf473de05f8f54b2b005384fc/Screenshot%202.png)
+![image alt](https://github.com/7m7n/Luban-2040-v2/blob/e6dafcce7240035cf473de05f8f54b2b005384fc/Screenshot%203.PNG)
+![image alt](https://github.com/7m7n/Luban-2040-v2/blob/e6dafcce7240035cf473de05f8f54b2b005384fc/Screenshot%204.png)
+![image alt](https://github.com/7m7n/Luban-2040-v2/blob/e6dafcce7240035cf473de05f8f54b2b005384fc/Screenshot%205.png)
+![image alt](https://github.com/7m7n/Luban-2040-v2/blob/e6dafcce7240035cf473de05f8f54b2b005384fc/Screenshot%206.png)
+![image alt](https://github.com/7m7n/Luban-2040-v2/blob/e6dafcce7240035cf473de05f8f54b2b005384fc/Screenshot%207.png)
 ---
 ## 📜 License
 
