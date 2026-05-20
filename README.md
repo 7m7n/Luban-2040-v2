@@ -352,7 +352,7 @@ python3 luban2040.py -web https://example.com --full-web -o example_report
 python3 luban2040.py -host example.com -web https://example.com --full -t 20 -v
 
 # Internal red team
-python3 luban2040.py -redteam 192.168.1.1
+python3 luban2040.py -redteam <Target IP adresses>
 
 # CVE scan via Shodan
 python3 luban2040.py -org "Target Corp" -cvss 7.0
