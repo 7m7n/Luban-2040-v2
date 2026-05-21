@@ -88,6 +88,7 @@ chmod +x setup.sh
 
 ```bash
 pip install -r requirements.txt
+pip install colorama
 ```
 
 ### Optional: Cloudflare / WAF Bypass Engine
