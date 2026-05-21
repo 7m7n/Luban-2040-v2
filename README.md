@@ -91,6 +91,13 @@ pip install -r requirements.txt
 pip install colorama
 ```
 
+## if You have any issue install the core libraries manually:
+```bash
+pip install requests pyfiglet termcolor cloudscraper dnspython beautifulsoup4 ldap3 pysmb impacket shodan paramiko
+```
+
+
+
 ### Optional: Cloudflare / WAF Bypass Engine
 
 ```bash
