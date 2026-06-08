@@ -91,9 +91,12 @@ pip install -r requirements.txt
 pip install colorama
 ```
 
-## if You have any issue install the core libraries manually:
+## If you have any issue install the core libraries manually through Python virtual environments(venv):
 ```bash
 pip install requests pyfiglet termcolor cloudscraper dnspython beautifulsoup4 ldap3 pysmb impacket shodan paramiko
+pip3 install cloudscraper
+pip3 install requests beautifulsoup4 urllib3
+pip install paramiko
 ```
 
 
